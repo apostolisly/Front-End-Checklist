@@ -12,6 +12,7 @@
 [![Contributors](https://img.shields.io/github/contributors/thedaviddias/Front-End-Checklist.svg)](https://github.com/thedaviddias/Front-End-Checklist/graphs/contributors)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/thedaviddias/front-end-checklist)
 [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2FFront-End-Checklist.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2FFront-End-Checklist?ref=badge_shield)
 
 It is based on Front-End developers' years of experience, with the additions coming from some other open-source checklists.
 
@@ -760,3 +761,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 [low_img]: https://front-end-checklist.now.sh/low.svg
 [medium_img]: https://front-end-checklist.now.sh/medium.svg
 [high_img]: https://front-end-checklist.now.sh/high.svg
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2FFront-End-Checklist.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2FFront-End-Checklist?ref=badge_large)
